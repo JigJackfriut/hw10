@@ -21,8 +21,8 @@
 #define CONTACTDB_H
 
 #define DB_URL "jdbc:mariadb://localhost:3306/kenyon"
-#define USER "kenyon"
-#define PASS "GambierOwls"
+#define USER "root"
+#define PASS "newpassword"
 
 using namespace std;
 
